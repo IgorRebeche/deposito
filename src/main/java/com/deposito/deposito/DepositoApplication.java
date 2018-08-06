@@ -8,5 +8,6 @@ public class DepositoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DepositoApplication.class, args);
+		System.out.println("teste");
 	}
 }
